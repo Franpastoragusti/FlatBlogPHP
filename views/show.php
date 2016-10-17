@@ -5,6 +5,9 @@
 		<?= $post['descripcion']?>
 		</div>
 <?php $content = ob_get_clean() ?>
+
 <?php?>
 
 <?php include 'views/template.php'?>
+
+
